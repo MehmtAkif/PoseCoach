@@ -167,4 +167,4 @@ MIT License
 ## 🙏 Teşekkür
 
 Bu proje, **BTK — Yapay Zeka Destekli Görüntü İşleme Kariyer Atölyesi** (20–24 Nisan 2026, Samsun Teknokent) kapsamında geliştirilmiştir.  
-Değerli katkıları ve rehberliği için **Muammer Hoca**'ya teşekkürler.
+Değerli katkıları ve rehberliği için **Muammer Hocama** teşekkür ederim.
