@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Video dosyaları (büyük olabilir)
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# PDF çıktıları (otomatik oluşturuluyor)
+output_*.pdf
+report_*.pdf
+
+# Model dosyası (ilk çalıştırmada otomatik indirilir)
+pose_landmarker.task
